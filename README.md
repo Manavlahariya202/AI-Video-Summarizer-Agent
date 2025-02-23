@@ -5,14 +5,15 @@ The Multimodal AI Video Summarizer Agent is an intelligent video analysis tool p
 
 
 #How It Works
-1️⃣ Upload a Video (MP4, MOV, AVI).
-2️⃣ Enter a Query (e.g., "Summarize the video" or "Find key moments").
-3️⃣ Click "Analyze Video" to process the file.
-4️⃣ AI extracts insights and displays the result.
 
-Tech Stack
-Python (Core Language)
-Streamlit (Web UI)
-Google Gemini 2.0 Flash Exp (AI Model)
-DuckDuckGo API (Web Search)
-Tempfile & Pathlib (File Handling)
+1- Upload a Video (MP4, MOV, AVI).
+2- Enter a Query (e.g., "Summarize the video" or "Find key moments").
+3- Click "Analyze Video" to process the file.
+4- AI extracts insights and displays the result.
+
+#Tech Stack
+1-Python (Core Language)
+2-Streamlit (Web UI)
+3-Google Gemini 2.0 Flash Exp (AI Model)
+4-DuckDuckGo API (Web Search)
+5-Tempfile & Pathlib (File Handling)
