@@ -1,0 +1,5 @@
+pypdf
+streamlit
+phidata
+google-generativeai
+duckduckgo-search
